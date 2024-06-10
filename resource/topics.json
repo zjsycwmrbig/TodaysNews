@@ -1,0 +1,9 @@
+{
+	"name":"topics",
+	"topics":[
+		{
+			"name":"微信",
+			"url":"https://api.codelife.cc/api/top/list?lang=cn&id=WnBe01o371"
+		}
+	]
+}
