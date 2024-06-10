@@ -106,7 +106,6 @@
             },
             openWebView(){
                 // 在浏览器中打开
-
             }
         }
     }
@@ -144,6 +143,7 @@
     align-items: center;
     font-weight: bold;
     color: #000;
+	height: 100%;
 }
 
 .hot{
